@@ -43,7 +43,29 @@
 
 ## 🌟 Featured Projects & Open Source Repositories
 
-### 🏢 1. Frappe & ERPNext Enterprise Apps
+### 🏭 1. Tier-1 Heavy Industrial & Enterprise ERP Solutions (Enterprise Partner Class)
+- [**erpnext-pharmaceutical-batch-recall-21cfr11**](https://github.com/shyampandey1104/erpnext-pharmaceutical-batch-recall-21cfr11) — Pharma FDA 21 CFR Part 11 Electronic Batch Records (eBR) & forward/backward drug recall containment.
+- [**frappe-insurance-policy-claims-adjudication**](https://github.com/shyampandey1104/frappe-insurance-policy-claims-adjudication) — Health & General insurance claims underwriting, deductible calculations & cashless settlement vouchers.
+- [**erpnext-mining-quarry-weighbridge-automation**](https://github.com/shyampandey1104/erpnext-mining-quarry-weighbridge-automation) — Pit-head weighbridge IoT scale integration, e-Ravanna mineral transit pass & axle overload enforcement.
+- [**frappe-telecom-bss-cdr-rating-engine**](https://github.com/shyampandey1104/frappe-telecom-bss-cdr-rating-engine) — Telecom BSS Call Detail Record (CDR) rating, roaming surcharge matrix & postpaid billing.
+- [**erpnext-poultry-hatchery-feed-formulation**](https://github.com/shyampandey1104/erpnext-poultry-hatchery-feed-formulation) — Poultry hatchery setter-to-hatcher yield, broiler Feed Conversion Ratio (FCR) & flock mortality tracking.
+- [**frappe-logistics-3pl-wms-billing-engine**](https://github.com/shyampandey1104/frappe-logistics-3pl-wms-billing-engine) — 3PL multi-client warehouse activity-based costing, pallet-day storage & consolidated billing.
+- [**erpnext-sugar-mill-cane-crushing-ledger**](https://github.com/shyampandey1104/erpnext-sugar-mill-cane-crushing-ledger) — Sugar mill cane weighment, pol/brix lab recovery & statutory Fair & Remunerative Price (FRP) farmer ledger.
+- [**frappe-port-container-terminal-operating-system**](https://github.com/shyampandey1104/frappe-port-container-terminal-operating-system) — Maritime port TOS yard 3D container slotting (Bay-Row-Tier), reefer monitoring & demurrage billing.
+- [**erpnext-apparel-garment-cut-piece-rate**](https://github.com/shyampandey1104/erpnext-apparel-garment-cut-piece-rate) — Apparel cut-order planning (COP), barcode bundle ticketing & operator piecework payroll.
+- [**frappe-renewable-wind-turbine-scada-curtailment**](https://github.com/shyampandey1104/frappe-renewable-wind-turbine-scada-curtailment) — Wind farm SCADA power curve modeling, SLDC grid curtailment revenue loss & REA billing.
+- [**frappe-aviation-mro-aircraft-maintenance**](https://github.com/shyampandey1104/frappe-aviation-mro-aircraft-maintenance) — Aviation MRO Flight Hours/Cycles tracking, A/C check inspections & DGCA CAR 145 release certs.
+- [**erpnext-mes-shop-floor-execution**](https://github.com/shyampandey1104/erpnext-mes-shop-floor-execution) — Shop Floor MES, machine telemetry ingestion, Six Big Losses & real-time OEE analytics.
+- [**frappe-global-payroll-statutory-engine**](https://github.com/shyampandey1104/frappe-global-payroll-statutory-engine) — Multi-jurisdiction statutory payroll engine (India PF/ESI/PT + UAE WPS SIF & Gratuity).
+- [**erpnext-construction-epc-billing-ra-bill**](https://github.com/shyampandey1104/erpnext-construction-epc-billing-ra-bill) — Construction EPC project ledger, Running Account (RA) billing, retention escrows & TDS.
+- [**frappe-multitenant-saas-provisioner**](https://github.com/shyampandey1104/frappe-multitenant-saas-provisioner) — Frappe Cloud/Press multi-tenant SaaS auto-provisioner with MariaDB isolation.
+- [**erpnext-subcontracting-jobwork-ledger**](https://github.com/shyampandey1104/erpnext-subcontracting-jobwork-ledger) — Subcontracting jobwork ledger, GST Section 143 (ITC-04) 1-year window & scrap reconciler.
+- [**frappe-audit-trail-tamper-proof-ledger**](https://github.com/shyampandey1104/frappe-audit-trail-tamper-proof-ledger) — CARO 2020 & MCA compliant SHA-256 cryptographic hash-chained tamper-proof audit trail.
+- [**erpnext-exim-export-import-customs**](https://github.com/shyampandey1104/erpnext-exim-export-import-customs) — Export-Import customs clearing, Letter of Credit (LC), Bill of Lading (BL) & Duty Drawback (DBK).
+- [**frappe-hospital-inpatient-ipd-bed-manager**](https://github.com/shyampandey1104/frappe-hospital-inpatient-ipd-bed-manager) — Hospital In-Patient Department (IPD) ward bed manager, ICU allocations & TPA cashless billing.
+- [**erpnext-energy-scada-carbon-accounting**](https://github.com/shyampandey1104/erpnext-energy-scada-carbon-accounting) — Industrial SCADA energy meter telemetry & Scope 1/2/3 GHG carbon emission footprint ledger.
+
+### 🏢 2. Frappe & ERPNext Commercial Apps
 - [**frappe-hotel-pms**](https://github.com/shyampandey1104/frappe-hotel-pms) — Property Management System, guest folio accounting, housekeeping state machines, and occupancy charts.
 - [**frappe-healthcare-clinic**](https://github.com/shyampandey1104/frappe-healthcare-clinic) — Outpatient clinic OPD, token queues, electronic health records (EHR), and prescription billing.
 - [**frappe-school-campus-erp**](https://github.com/shyampandey1104/frappe-school-campus-erp) — Campus management, student fee schedules, attendance tracking, and report cards.
