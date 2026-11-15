@@ -77,6 +77,18 @@
 - [**frappe-hospital-inpatient-ipd-bed-manager**](https://github.com/shyampandey1104/frappe-hospital-inpatient-ipd-bed-manager) — Hospital In-Patient Department (IPD) ward bed manager, ICU allocations & TPA cashless billing.
 - [**erpnext-energy-scada-carbon-accounting**](https://github.com/shyampandey1104/erpnext-energy-scada-carbon-accounting) — Industrial SCADA energy meter telemetry & Scope 1/2/3 GHG carbon emission footprint ledger.
 
+### ⚙️ 3. Ultra-Specialized Mission-Critical Industrial Solutions
+- [**erpnext-automotive-oem-edi-deljit-sequencer**](https://github.com/shyampandey1104/erpnext-automotive-oem-edi-deljit-sequencer) — Automotive OEM EDI DELJIT / DELFOR message parser & Just-In-Sequence (JIS) line-stoppage buffer monitor.
+- [**frappe-esg-bser-sustainability-reporting**](https://github.com/shyampandey1104/frappe-esg-bser-sustainability-reporting) — SEBI BRSR Core ESG sustainability reporting, Scope 1/2 GHG, water neutrality & Section 135 CSR 2% ledger.
+- [**erpnext-chemical-sds-reach-compliance**](https://github.com/shyampandey1104/erpnext-chemical-sds-reach-compliance) — Chemical GHS 16-section Safety Data Sheet (SDS), CAS tonnage tracking & EU REACH compliance.
+- [**frappe-procurement-reverse-auction-engine**](https://github.com/shyampandey1104/frappe-procurement-reverse-auction-engine) — Strategic e-procurement reverse auctions with decrement validation & anti-sniping dynamic timers.
+- [**erpnext-loan-syndication-consortium-ledger**](https://github.com/shyampandey1104/erpnext-loan-syndication-consortium-ledger) — Multi-bank consortium loan syndication, pari-passu drawdowns & pro-rata waterfall repayments.
+- [**frappe-cold-chain-vaccine-vvm-telemetry**](https://github.com/shyampandey1104/frappe-cold-chain-vaccine-vvm-telemetry) — Healthcare vaccine cold-chain monitoring, Haynes Mean Kinetic Temperature (MKT) & VVM stage degradation.
+- [**erpnext-dairy-chilling-center-fat-snf-incentive**](https://github.com/shyampandey1104/erpnext-dairy-chilling-center-fat-snf-incentive) — Milk chilling center ultrasonic analyzer, Richmond's SNF formula, 2-axis payment matrix & adulteration interlock.
+- [**frappe-heavy-equipment-rental-telematics-billing**](https://github.com/shyampandey1104/frappe-heavy-equipment-rental-telematics-billing) — Heavy machinery rental, GPS engine run-hour telematics, overtime surcharges & mobilization fees.
+- [**erpnext-tea-estate-plucking-wage-incentive**](https://github.com/shyampandey1104/erpnext-tea-estate-plucking-wage-incentive) — Tea plantation Bluetooth weighing scales, statutory quota extra-leaf incentives & Fine Leaf Count (FLC) premiums.
+- [**frappe-distillery-excise-ethanol-blending-ledger**](https://github.com/shyampandey1104/frappe-distillery-excise-ethanol-blending-ledger) — Distillery state excise permits, London Proof Litre (LPL) hydrometer calibration & OMC E20 ethanol dispatch.
+
 ### 🏢 2. Frappe & ERPNext Commercial Apps
 - [**frappe-hotel-pms**](https://github.com/shyampandey1104/frappe-hotel-pms) — Property Management System, guest folio accounting, housekeeping state machines, and occupancy charts.
 - [**frappe-healthcare-clinic**](https://github.com/shyampandey1104/frappe-healthcare-clinic) — Outpatient clinic OPD, token queues, electronic health records (EHR), and prescription billing.
