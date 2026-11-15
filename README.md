@@ -43,7 +43,19 @@
 
 ## 🌟 Featured Projects & Open Source Repositories
 
-### 🏭 1. Tier-1 Heavy Industrial & Enterprise ERP Solutions (Enterprise Partner Class)
+### 🔥 1. High-Demand Enterprise Pain-Point Solvers (Active Market Requirements)
+- [**erpnext-msme-section43b-compliance-tracker**](https://github.com/shyampandey1104/erpnext-msme-section43b-compliance-tracker) — MSME Income Tax Section 43B(h) 15/45-day statutory payment countdown & 31.2% corporate tax disallowance exposure.
+- [**erpnext-gst-gstr2b-itc-reconciler**](https://github.com/shyampandey1104/erpnext-gst-gstr2b-itc-reconciler) — Rule 37A & Section 16(2)(aa) GSTR-2B vs Purchase Register fuzzy matcher & 18% interest reversal ledger.
+- [**erpnext-forex-hedging-edpms-settlement**](https://github.com/shyampandey1104/erpnext-forex-hedging-edpms-settlement) — RBI EDPMS/IDPMS 9-month shipping bill realization, SWIFT FIRC allocation & Ind AS 21 forex gain/loss.
+- [**frappe-b2c-dynamic-upi-qr-engine**](https://github.com/shyampandey1104/frappe-b2c-dynamic-upi-qr-engine) — GST Notification 14/2020 B2C Dynamic UPI QR code generator & instant bank webhook payment reconciler.
+- [**frappe-treasury-cash-pooling-engine**](https://github.com/shyampandey1104/frappe-treasury-cash-pooling-engine) — Global treasury multi-entity zero-balance cash sweeps (ZBA) & SOFR arm's length intercompany loans.
+- [**erpnext-field-service-sla-dispatcher**](https://github.com/shyampandey1104/erpnext-field-service-sla-dispatcher) — Haversine geolocation routing, technician skill matrix & van-stock spare parts consumption.
+- [**frappe-clm-revenue-recognition-ifrs15**](https://github.com/shyampandey1104/frappe-clm-revenue-recognition-ifrs15) — 5-Step IFRS 15 / Ind AS 115 multi-element contract performance obligation revenue recognition.
+- [**erpnext-warehouse-cycle-count-audit**](https://github.com/shyampandey1104/erpnext-warehouse-cycle-count-audit) — Perpetual ABC blind cycle count, barcode audit scanning & inventory shrinkage write-off.
+- [**frappe-omnichannel-loyalty-engine**](https://github.com/shyampandey1104/frappe-omnichannel-loyalty-engine) — D2C/Retail tier progression (Silver, Gold, Platinum), spending multipliers & anti-fraud limits.
+- [**erpnext-tpm-equipment-reliability-mtbf**](https://github.com/shyampandey1104/erpnext-tpm-equipment-reliability-mtbf) — Total Productive Maintenance (TPM), MTBF & MTTR equipment uptime reliability analytics.
+
+### 🏭 2. Tier-1 Heavy Industrial & Enterprise ERP Solutions (Enterprise Partner Class)
 - [**erpnext-pharmaceutical-batch-recall-21cfr11**](https://github.com/shyampandey1104/erpnext-pharmaceutical-batch-recall-21cfr11) — Pharma FDA 21 CFR Part 11 Electronic Batch Records (eBR) & forward/backward drug recall containment.
 - [**frappe-insurance-policy-claims-adjudication**](https://github.com/shyampandey1104/frappe-insurance-policy-claims-adjudication) — Health & General insurance claims underwriting, deductible calculations & cashless settlement vouchers.
 - [**erpnext-mining-quarry-weighbridge-automation**](https://github.com/shyampandey1104/erpnext-mining-quarry-weighbridge-automation) — Pit-head weighbridge IoT scale integration, e-Ravanna mineral transit pass & axle overload enforcement.
