@@ -121,6 +121,19 @@
 - [**erpnext-iot-telemetry-gateway**](https://github.com/shyampandey1104/erpnext-iot-telemetry-gateway) — Industry 4.0 MQTT sensor streaming gateway feeding temperature/vibration logs into ERPNext.
 - [**frappe-blood-bank-donor-registry**](https://github.com/shyampandey1104/frappe-blood-bank-donor-registry) — Blood component separation (PRBC, Platelets, FFP), FEFO shelf-life dispatch, and cross-matching.
 
+### 🛒 5. POS Counters, WhatsApp, Twilio & Modern ERPNext Integrations
+- [**erpnext-pos-pine-labs-payment-gateway**](https://github.com/shyampandey1104/erpnext-pos-pine-labs-payment-gateway) — Pine Labs Plutus Cloud / EDC Swipe Terminal POS payment gateway with auto-charge & dual-display settlement.
+- [**frappe-whatsapp-cloud-api-notifications**](https://github.com/shyampandey1104/frappe-whatsapp-cloud-api-notifications) — Meta WhatsApp Cloud API engine for automated invoices, payment reminders, and dispatch updates.
+- [**frappe-twilio-voice-sms-otp-gateway**](https://github.com/shyampandey1104/frappe-twilio-voice-sms-otp-gateway) — Twilio IVR voice calls, transactional SMS dispatch, and 2FA login OTP verification engine.
+- [**frappe-paybook-open-banking-aggregator**](https://github.com/shyampandey1104/frappe-paybook-open-banking-aggregator) — Paybook Sync & Account Aggregator open banking feeds with automated GL payment entry reconciliation.
+- [**erpnext-pos-offline-pwa-hybrid-counter**](https://github.com/shyampandey1104/erpnext-pos-offline-pwa-hybrid-counter) — PWA offline retail POS counter with hardware barcode listener and background queue sync.
+- [**erpnext-gst-tax-ledger-pnl-analytics**](https://github.com/shyampandey1104/erpnext-gst-tax-ledger-pnl-analytics) — Real-time P&L analytics computing EBITDA, net margins, working capital liquidity ratios & GSTR-3B balance audit.
+- [**erpnext-barcode-label-thermal-printer-engine**](https://github.com/shyampandey1104/erpnext-barcode-label-thermal-printer-engine) — Direct Zebra ZPL II / ESC-POS / TSPL thermal barcode label printer generator for retail and warehouses.
+- [**frappe-executive-owner-kpi-dashboard**](https://github.com/shyampandey1104/frappe-executive-owner-kpi-dashboard) — C-Suite Business Owner dashboard tracking cash runway, working capital, and dead-stock aging.
+- [**erpnext-upi-soundbox-instant-reconciliation**](https://github.com/shyampandey1104/erpnext-upi-soundbox-instant-reconciliation) — IoT UPI Soundbox (Paytm / PhonePe) audio confirmation webhook & zero-touch POS auto-settlement.
+- [**frappe-automated-purchase-expense-tracker**](https://github.com/shyampandey1104/frappe-automated-purchase-expense-tracker) — 3-Way PO vs GRN vs Invoice matching, departmental expense budgets, and vendor bill approval workflows.
+
+
 ---
 
 ## 📊 GitHub Analytics
