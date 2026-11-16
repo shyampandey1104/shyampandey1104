@@ -133,6 +133,19 @@
 - [**erpnext-upi-soundbox-instant-reconciliation**](https://github.com/shyampandey1104/erpnext-upi-soundbox-instant-reconciliation) — IoT UPI Soundbox (Paytm / PhonePe) audio confirmation webhook & zero-touch POS auto-settlement.
 - [**frappe-automated-purchase-expense-tracker**](https://github.com/shyampandey1104/frappe-automated-purchase-expense-tracker) — 3-Way PO vs GRN vs Invoice matching, departmental expense budgets, and vendor bill approval workflows.
 
+### 🏢 6. Core ERPNext Official Enterprise Modules (HRMS, Payroll, Mfg, Buying, Selling & Accounts)
+- [**erpnext-hrms-full-lifecycle-engine**](https://github.com/shyampandey1104/erpnext-hrms-full-lifecycle-engine) — Complete HRMS: Hire-to-Retire workflow, biometric punch sync, shift schedules, leave ledgers & F&F Gratuity settlement.
+- [**frappe-payroll-salary-tax-engine**](https://github.com/shyampandey1104/frappe-payroll-salary-tax-engine) — Automated Payroll: Formula salary structures, bulk payroll entries, Indian PF, ESI, Professional Tax, TDS & bank payment journals.
+- [**erpnext-manufacturing-workorder-jobcard-engine**](https://github.com/shyampandey1104/erpnext-manufacturing-workorder-jobcard-engine) — Manufacturing Core: Multi-level BOM costing, production planning, workstation routing, job cards & scrap accounting.
+- [**erpnext-buying-procurement-cycle-engine**](https://github.com/shyampandey1104/erpnext-buying-procurement-cycle-engine) — Buying & Procurement: Material Requests, RFQ supplier comparison matrices, PO approvals, GRN & Landed Cost Vouchers.
+- [**erpnext-selling-order-fulfillment-engine**](https://github.com/shyampandey1104/erpnext-selling-order-fulfillment-engine) — Selling & Order Fulfillment: Lead-to-Cash, quotation slab pricing rules, sales order reservation, pick lists & GST invoicing.
+- [**erpnext-accounts-core-ledger-engine**](https://github.com/shyampandey1104/erpnext-accounts-core-ledger-engine) — Core Accounts: Double-entry General Ledger balancing, Chart of Accounts, payment allocations, bank auto-recon & Trial Balance.
+- [**frappe-crm-lead-opportunity-pipeline**](https://github.com/shyampandey1104/frappe-crm-lead-opportunity-pipeline) — Enterprise CRM: Predictive lead qualification scoring, Exotel click-to-call sync, WhatsApp KYC follow-up & opportunity stage funnels.
+- [**erpnext-stock-inventory-warehouse-engine**](https://github.com/shyampandey1104/erpnext-stock-inventory-warehouse-engine) — Stock & Warehouses: Real-time FIFO inventory ledger valuation, batch & serial life, automated reorder autopilot & cycle counting.
+- [**erpnext-projects-timesheet-costing-engine**](https://github.com/shyampandey1104/erpnext-projects-timesheet-costing-engine) — Projects & PSA: Work Breakdown Structures (WBS), milestone tracking, employee timesheets & project gross margin profitability.
+- [**frappe-quality-assurance-capa-engine**](https://github.com/shyampandey1104/frappe-quality-assurance-capa-engine) — Quality Management: Incoming, in-process & outgoing inspection tolerances, Non-Conformance Reports (NCR) & CAPA actions.
+
+
 
 ---
 
