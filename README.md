@@ -145,6 +145,19 @@
 - [**erpnext-projects-timesheet-costing-engine**](https://github.com/shyampandey1104/erpnext-projects-timesheet-costing-engine) — Projects & PSA: Work Breakdown Structures (WBS), milestone tracking, employee timesheets & project gross margin profitability.
 - [**frappe-quality-assurance-capa-engine**](https://github.com/shyampandey1104/frappe-quality-assurance-capa-engine) — Quality Management: Incoming, in-process & outgoing inspection tolerances, Non-Conformance Reports (NCR) & CAPA actions.
 
+### 🔬 7. Next-Gen High-Demand Enterprise Engines (GeM, MOOWR, EPR, NBFC, Fab MES, Maritime & Carbon)
+- [**erpnext-gem-portal-bid-contract-engine**](https://github.com/shyampandey1104/erpnext-gem-portal-bid-contract-engine) — GeM 4.0 Government e-Marketplace integration: Tender tracking, EMD Bank Guarantee management, L1 price simulation & CRAC invoicing.
+- [**frappe-customs-bonded-warehouse-moowr**](https://github.com/shyampandey1104/frappe-customs-bonded-warehouse-moowr) — Customs Act Sec 65 MOOWR scheme: In-bond manufacturing, 100% duty deferment ledger, and zero-interest export/domestic clearances.
+- [**erpnext-waste-management-epr-credit-trading**](https://github.com/shyampandey1104/erpnext-waste-management-epr-credit-trading) — CPCB Extended Producer Responsibility (EPR): Category I-IV plastic packaging obligation tracking, PIBO recycler audits & credit trading.
+- [**frappe-nbfc-co-lending-fldg-engine**](https://github.com/shyampandey1104/frappe-nbfc-co-lending-fldg-engine) — RBI CLM-2 Co-Lending Model: 80:20 Bank-NBFC risk split, daily escrow waterfall settlement & statutory 5% FLDG guarantee cap guard.
+- [**erpnext-semiconductor-wafer-fab-cleanroom-mes**](https://github.com/shyampandey1104/erpnext-semiconductor-wafer-fab-cleanroom-mes) — 300mm Wafer Fab Cleanroom MES: SEMI SECS/GEM tool interlocks, defect density heatmaps & Statistical Process Control (SPC) hold logic.
+- [**frappe-maritime-vessel-charter-bunker-logistics**](https://github.com/shyampandey1104/frappe-maritime-vessel-charter-bunker-logistics) — Ocean Shipping & Chartering: Statement of Facts laytime demurrage/despatch calculator & IMO 2020 0.50% sulphur bunker compliance.
+- [**erpnext-biopharma-clinical-trial-ctms-gcp**](https://github.com/shyampandey1104/erpnext-biopharma-clinical-trial-ctms-gcp) — ICH-GCP Clinical Trials CTMS: Double-blind block cohort randomization, 21 CFR Part 11 eCRF audits & expedited 24h SAE escalation.
+- [**frappe-data-center-pue-rack-dcim-billing**](https://github.com/shyampandey1104/frappe-data-center-pue-rack-dcim-billing) — Data Center DCIM: Real-time Power Usage Effectiveness (PUE) monitoring, ASHRAE thermal envelope check & 3-phase kWh power billing.
+- [**erpnext-mining-mineral-royalty-etp-transit-pass**](https://github.com/shyampandey1104/erpnext-mining-mineral-royalty-etp-transit-pass) — State Directorate of Mines e-Khanij: MMDR statutory royalty, 30% DMF / 2% NMET calculation, electronic Transit Pass (eTP) & RFID weighbridge gate.
+- [**frappe-carbon-credit-mrv-ghg-protocol-engine**](https://github.com/shyampandey1104/frappe-carbon-credit-mrv-ghg-protocol-engine) — Scope 1, 2 & 3 Carbon MRV: EU CBAM embodied carbon intensity per ton, ISO 14064 corporate emissions & Verra/Gold Standard offset retirement.
+
+
 
 
 ---
