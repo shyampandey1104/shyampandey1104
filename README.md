@@ -157,6 +157,19 @@
 - [**erpnext-mining-mineral-royalty-etp-transit-pass**](https://github.com/shyampandey1104/erpnext-mining-mineral-royalty-etp-transit-pass) — State Directorate of Mines e-Khanij: MMDR statutory royalty, 30% DMF / 2% NMET calculation, electronic Transit Pass (eTP) & RFID weighbridge gate.
 - [**frappe-carbon-credit-mrv-ghg-protocol-engine**](https://github.com/shyampandey1104/frappe-carbon-credit-mrv-ghg-protocol-engine) — Scope 1, 2 & 3 Carbon MRV: EU CBAM embodied carbon intensity per ton, ISO 14064 corporate emissions & Verra/Gold Standard offset retirement.
 
+### ⚡ 8. Active Client Pain-Point Solvers (ONDC, Account Aggregator, DPDP Act, EV Battery, QSR & TReDS)
+- [**erpnext-ondc-network-seller-gateway**](https://github.com/shyampandey1104/erpnext-ondc-network-seller-gateway) — ONDC Beckn Protocol Seller Gateway: Dynamic B2B/B2C catalog publishing, atomic stock reservation & on-network 3PL logistics handshake.
+- [**frappe-account-aggregator-fiu-engine**](https://github.com/shyampandey1104/frappe-account-aggregator-fiu-engine) — RBI Account Aggregator (AA) FIU: Encrypted bank statement ingestion, cash-flow diagnostics, bounce analytics & automated credit limits.
+- [**erpnext-dpdp-privacy-consent-engine**](https://github.com/shyampandey1104/erpnext-dpdp-privacy-consent-engine) — Digital Personal Data Protection (DPDP Act 2023): Granular purpose-specific consent notices, Right to Erasure PII anonymization & DPBI audit logs.
+- [**frappe-ev-battery-swap-telematics-engine**](https://github.com/shyampandey1104/frappe-ev-battery-swap-telematics-engine) — Smart EV Battery Swapping: BMS telemetry ingestion, thermal runaway safety interlocks, dynamic kWh metering & driver wallet debit.
+- [**erpnext-qsr-kitchen-display-aggregator**](https://github.com/shyampandey1104/erpnext-qsr-kitchen-display-aggregator) — Omnichannel QSR Kitchen Display System (KDS): Swiggy/Zomato/POS order normalization, station routing (Grill, Fryer) & live prep SLA countdown.
+- [**frappe-treds-dynamic-discounting-engine**](https://github.com/shyampandey1104/frappe-treds-dynamic-discounting-engine) — TReDS & Dynamic Discounting: Sliding-scale early payment discount yield calculator & institutional invoice factoring interface.
+- [**erpnext-abdm-nabh-healthcare-engine**](https://github.com/shyampandey1104/erpnext-abdm-nabh-healthcare-engine) — Ayushman Bharat ABDM M1-M3: 14-digit ABHA ID integration, HL7 FHIR R4 clinical bundle generator & NABH 5th edition hospital audits.
+- [**frappe-freight-audit-container-demurrage**](https://github.com/shyampandey1104/frappe-freight-audit-container-demurrage) — Ocean Freight Audit & Container Demurrage: Surcharge discrepancy detector (BAF, CAF, THC), free-time countdown & overcharge dispute filing.
+- [**erpnext-jobwork-itc04-gst-reconciler**](https://github.com/shyampandey1104/erpnext-jobwork-itc04-gst-reconciler) — Subcontracting CGST Sec 143: Rule 55 delivery challan tracking, 1-year aging deemed sale interest guard & Form GST ITC-04 quarterly returns.
+- [**frappe-ewaybill-multimodal-transshipment**](https://github.com/shyampandey1104/frappe-ewaybill-multimodal-transshipment) — E-Way Bill Multimodal Transshipment: Hub-and-spoke Part-B vehicle updates, Section 129 detention penalty guard & RFID FASTag toll correlation.
+
+
 
 
 
