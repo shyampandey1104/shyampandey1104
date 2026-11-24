@@ -59,6 +59,60 @@ Rather than generic software customization, my focus centers on building resilie
 
 ---
 
+## 📌 Popular Repositories
+
+<div align="center">
+  <table border="0" width="100%">
+    <tr>
+      <td width="50%" valign="top">
+        <a href="https://github.com/shyampandey1104/erpnext-hrms-full-lifecycle-engine">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=shyampandey1104&repo=erpnext-hrms-full-lifecycle-engine&theme=radical&show_owner=true" width="100%" />
+        </a>
+      </td>
+      <td width="50%" valign="top">
+        <a href="https://github.com/shyampandey1104/frappe-payroll-salary-tax-engine">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=shyampandey1104&repo=frappe-payroll-salary-tax-engine&theme=radical&show_owner=true" width="100%" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%" valign="top">
+        <a href="https://github.com/shyampandey1104/erpnext-manufacturing-workorder-jobcard-engine">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=shyampandey1104&repo=erpnext-manufacturing-workorder-jobcard-engine&theme=radical&show_owner=true" width="100%" />
+        </a>
+      </td>
+      <td width="50%" valign="top">
+        <a href="https://github.com/shyampandey1104/erpnext-ondc-network-seller-gateway">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=shyampandey1104&repo=erpnext-ondc-network-seller-gateway&theme=radical&show_owner=true" width="100%" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%" valign="top">
+        <a href="https://github.com/shyampandey1104/erpnext-gem-portal-bid-contract-engine">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=shyampandey1104&repo=erpnext-gem-portal-bid-contract-engine&theme=radical&show_owner=true" width="100%" />
+        </a>
+      </td>
+      <td width="50%" valign="top">
+        <a href="https://github.com/shyampandey1104/frappe-customs-bonded-warehouse-moowr">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=shyampandey1104&repo=frappe-customs-bonded-warehouse-moowr&theme=radical&show_owner=true" width="100%" />
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
+
+| Popular Repository | Domain & Architecture Highlights | Stack & Framework |
+| :--- | :--- | :--- |
+| [**erpnext-hrms-full-lifecycle-engine**](https://github.com/shyampandey1104/erpnext-hrms-full-lifecycle-engine) | Hire-to-Retire Lifecycle, Biometric Attendance, Shifts, Leaves & F&F Gratuity | Frappe v15 • Python • HRMS |
+| [**frappe-payroll-salary-tax-engine**](https://github.com/shyampandey1104/frappe-payroll-salary-tax-engine) | Formula Salary Components, Indian PF, ESI, Professional Tax, TDS & Bank Journals | Frappe v15 • Payroll • FinTech |
+| [**erpnext-manufacturing-workorder-jobcard-engine**](https://github.com/shyampandey1104/erpnext-manufacturing-workorder-jobcard-engine) | Multi-level BOM Costing, Work Orders, Operations Routing & Job Cards | ERPNext • Manufacturing • Shop Floor |
+| [**erpnext-ondc-network-seller-gateway**](https://github.com/shyampandey1104/erpnext-ondc-network-seller-gateway) | Beckn Protocol B2B/B2C Catalog Discovery, Order Ingestion & 3PL Handshake | Python • ONDC • Beckn Protocol |
+| [**erpnext-gem-portal-bid-contract-engine**](https://github.com/shyampandey1104/erpnext-gem-portal-bid-contract-engine) | GeM 4.0 Public Procurement, EMD Bank Guarantees & CRAC Invoicing | ERPNext • Public Procurement • GovTech |
+| [**frappe-customs-bonded-warehouse-moowr**](https://github.com/shyampandey1104/frappe-customs-bonded-warehouse-moowr) | Customs Sec 65 In-Bond Manufacturing & 100% Duty Deferment Ledger | Frappe Framework • EXIM • Customs |
+
+---
+
 ## 🏛️ Enterprise Solutions & Open Source Repository Catalog
 
 ### ⚡ 1. Active Client Pain-Point Solvers (ONDC, Account Aggregator, DPDP Act, EV Battery, QSR & TReDS)
