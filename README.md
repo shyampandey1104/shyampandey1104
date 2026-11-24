@@ -1,61 +1,114 @@
-<div align="center">
+# 🚀 Shyam Kumar Pandey | Business & ERP Solutions | Cloud & DevOps Specialist
 
-# Hi there, I'm Shyamkumar Pandey 👋
-### 🚀 Full-Stack ERPNext & Frappe Framework Specialist | Python & AI Engineer
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com)
-[![GitHub](https://img.shields.io/badge/GitHub-shyampandey1104-black?style=for-the-badge&logo=github)](https://github.com/shyampandey1104)
-[![Email](https://img.shields.io/badge/Email-Get%20in%20Touch-red?style=for-the-badge&logo=gmail)](mailto:shyampandey1104@gmail.com)
-[![Status](https://img.shields.io/badge/Open%20to-Enterprise%20Projects%20%7C%20Full--Time%20Roles-brightgreen?style=for-the-badge)](#)
-
-<p align="center">
-  <b>Passionate Software Engineer specializing in scalable Frappe & ERPNext enterprise applications, autonomous AI agents, core FinTech ledgers, and high-concurrency microservices.</b>
-</p>
+Empowering global businesses with cutting-edge ERPNext, Frappe Framework, Cloud Infrastructure, and Scalable Enterprise Solutions.
 
 ---
 
-</div>
+### 🔹 Who I Am
 
-## 👨‍💻 About Me
-
-- 🔭 **Specialization:** End-to-end custom Frappe DocType architecture, Server Scripts, Client Scripts, background Celery/Redis workers, and ERPNext integrations.
-- 🤖 **AI & Automation:** Building autonomous RAG knowledge copilots, computer vision invoice parsers, and predictive ML scoring models.
-- 💼 **Enterprise Domains:** Manufacturing, Healthcare OPD, Hospitality PMS, Commercial Fleet Logistics, Education Campus, Solar EPC, and Agro-Commodity Cold Storage.
-- ⚡ **Engineering Principles:** Clean modular code, strict Pydantic schemas, comprehensive unit testing, and robust API design.
+I am **Shyam Kumar Pandey**, a technology-driven **Senior Enterprise Solutions Architect & Frappe / ERPNext Engineer** specializing in **ERP systems, cloud infrastructure, DevOps automation, and high-performance enterprise applications**. Dedicated to delivering scalable, secure, and resilient software architectures for businesses of all sizes — from agile fast-growing startups to large-scale industrial enterprises.
 
 ---
 
-## 🛠️ Tech Stack & Tooling
+### 🔹 My Expertise
 
-<div align="center">
-
-| Domain | Technologies & Libraries |
-| :--- | :--- |
-| **Enterprise & ERP** | ![Frappe](https://img.shields.io/badge/Frappe%20Framework-v14%20%7C%20v15-blue?logo=frappe) ![ERPNext](https://img.shields.io/badge/ERPNext-Enterprise-007ACC?logo=erpnext) ![DocTypes](https://img.shields.io/badge/Custom-DocTypes-orange) ![Hooks](https://img.shields.io/badge/Frappe-Hooks%20%26%20Events-blueviolet) |
-| **Languages & Core** | ![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB?logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-ES6%2B-F7DF1E?logo=javascript&logoColor=black) ![SQL](https://img.shields.io/badge/SQL-Advanced-CC292B?logo=sqlite) ![Bash](https://img.shields.io/badge/Shell-Bash%20%2F%20Zsh-4EAA25?logo=gnu-bash) |
-| **Databases & Cache** | ![MariaDB](https://img.shields.io/badge/MariaDB-003545?logo=mariadb&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white) |
-| **APIs & Backend** | ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white) ![REST APIs](https://img.shields.io/badge/REST-APIs-0052CC) ![Webhooks](https://img.shields.io/badge/Webhooks-Real--time-yellowgreen) ![Pydantic](https://img.shields.io/badge/Pydantic-v2-E92063) |
-| **DevOps & Cloud** | ![Docker](https://img.shields.io/badge/Docker-Containerization-2496ED?logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-Version%20Control-F05032?logo=git) ![GitHub](https://img.shields.io/badge/GitHub-Workflows-181717?logo=github) ![Linux](https://img.shields.io/badge/Linux-Ubuntu%20Server-FCC624?logo=linux&logoColor=black) |
-
-</div>
+- 🏗️ **Enterprise Resource Planning (ERP)** | Frappe & ERPNext 🏢 | Multi-Tenant & Scalable Architectures
+- ☁️ **Cloud & On-Premise Deployments** | AWS | Google Cloud | Azure | Contabo | Bare-Metal Linux
+- ⚙️ **DevOps & Automation** | CI/CD | Docker | Kubernetes | Ansible | Terraform | Bench CLI
+- 🛢️ **Database Engineering** | MariaDB 🐬 | PostgreSQL 🐘 | MySQL | MSSQL | Redis Caching
+- 📊 **Business Intelligence & Data Analytics** | Real-Time Dashboards | Data Warehousing | ETL Pipelines
+- 🔗 **Tally & Financial Integration** | Seamless sync between Tally & Frappe | Automated accounting workflows
+- ⚛️ **React & Modern Web Apps** | Scalable UI/UX | Vue.js | API-Driven Development
+- 📱 **Mobile & POS App Development** | Cross-platform solutions for Android & iOS | Flutter | Offline PWA
 
 ---
 
-## 🌟 Featured Projects & Open Source Repositories
+### 💡 What I Do
 
-### 🔥 1. High-Demand Enterprise Pain-Point Solvers (Active Market Requirements)
-- [**erpnext-msme-section43b-compliance-tracker**](https://github.com/shyampandey1104/erpnext-msme-section43b-compliance-tracker) — MSME Income Tax Section 43B(h) 15/45-day statutory payment countdown & 31.2% corporate tax disallowance exposure.
-- [**erpnext-gst-gstr2b-itc-reconciler**](https://github.com/shyampandey1104/erpnext-gst-gstr2b-itc-reconciler) — Rule 37A & Section 16(2)(aa) GSTR-2B vs Purchase Register fuzzy matcher & 18% interest reversal ledger.
-- [**erpnext-forex-hedging-edpms-settlement**](https://github.com/shyampandey1104/erpnext-forex-hedging-edpms-settlement) — RBI EDPMS/IDPMS 9-month shipping bill realization, SWIFT FIRC allocation & Ind AS 21 forex gain/loss.
-- [**frappe-b2c-dynamic-upi-qr-engine**](https://github.com/shyampandey1104/frappe-b2c-dynamic-upi-qr-engine) — GST Notification 14/2020 B2C Dynamic UPI QR code generator & instant bank webhook payment reconciler.
-- [**frappe-treasury-cash-pooling-engine**](https://github.com/shyampandey1104/frappe-treasury-cash-pooling-engine) — Global treasury multi-entity zero-balance cash sweeps (ZBA) & SOFR arm's length intercompany loans.
-- [**erpnext-field-service-sla-dispatcher**](https://github.com/shyampandey1104/erpnext-field-service-sla-dispatcher) — Haversine geolocation routing, technician skill matrix & van-stock spare parts consumption.
-- [**frappe-clm-revenue-recognition-ifrs15**](https://github.com/shyampandey1104/frappe-clm-revenue-recognition-ifrs15) — 5-Step IFRS 15 / Ind AS 115 multi-element contract performance obligation revenue recognition.
-- [**erpnext-warehouse-cycle-count-audit**](https://github.com/shyampandey1104/erpnext-warehouse-cycle-count-audit) — Perpetual ABC blind cycle count, barcode audit scanning & inventory shrinkage write-off.
-- [**frappe-omnichannel-loyalty-engine**](https://github.com/shyampandey1104/frappe-omnichannel-loyalty-engine) — D2C/Retail tier progression (Silver, Gold, Platinum), spending multipliers & anti-fraud limits.
-- [**erpnext-tpm-equipment-reliability-mtbf**](https://github.com/shyampandey1104/erpnext-tpm-equipment-reliability-mtbf) — Total Productive Maintenance (TPM), MTBF & MTTR equipment uptime reliability analytics.
+- ✅ **Frappe & ERPNext Enterprise Solutions** – End-to-end ERP development, customization & performance optimization
+- ✅ **Cloud & Hybrid Infrastructure Management** – High-availability deployments on AWS, Azure, GCP & private clouds
+- ✅ **Enterprise DevOps & CI/CD** – Automating software delivery with security-focused pipelines
+- ✅ **Database Performance Optimization** – High-speed query execution, partitioning, and replication strategies
+- ✅ **AI-Powered Business Insights** – Advanced analytics & machine learning integration for ERP & business data
+- ✅ **Tally + Frappe Integration** – Real-time financial & inventory data sync across platforms
+- ✅ **Mobile & Web App Development** – Scalable enterprise applications with modern UI/UX frameworks
 
-### 🏭 2. Tier-1 Heavy Industrial & Enterprise ERP Solutions (Enterprise Partner Class)
+---
+
+### 🌟 Key Achievements
+
+- 🚀 **Scaled ERPNext & Frappe for large enterprises**, handling **millions of transactions** efficiently without system degradation
+- 🌐 **Implemented Multi-Cloud Solutions**, ensuring **99.99% uptime** & business continuity
+- ⚡ **Optimized High-Performance Databases**, reducing query execution time by **up to 80%**
+- 📊 **Architected 120+ Production-Ready ERPNext & Frappe Repositories**, spanning Manufacturing, Supply Chain, FinTech, and Healthcare
+- 🛠️ **Built Secure DevOps Pipelines**, ensuring fast, reliable, and automated deployments
+- 📈 **Enhanced ERPNext Performance**, reducing page load times & improving user experience
+- 💰 **Integrated Tally with Frappe**, streamlining financial automation & business accounting
+
+---
+
+### 📬 Let's Connect!
+
+- 🐙 **GitHub** : [@shyampandey1104](https://github.com/shyampandey1104)
+- 💼 **LinkedIn** : [Shyam Kumar Pandey on LinkedIn](https://www.linkedin.com)
+- 📧 **Email** : [shyamkumarpandey1104@gmail.com](mailto:shyamkumarpandey1104@gmail.com)
+- 🌐 **Website / Portfolio** : [github.com/shyampandey1104](https://github.com/shyampandey1104)
+
+🚀 *Let's build the future of enterprise technology together!*
+
+---
+
+## 🏛️ Featured Enterprise Solutions & Open Source Repositories
+
+### ⚡ 1. Active Client Pain-Point Solvers (ONDC, Account Aggregator, DPDP Act, EV Battery, QSR & TReDS)
+- [**erpnext-ondc-network-seller-gateway**](https://github.com/shyampandey1104/erpnext-ondc-network-seller-gateway) — ONDC Beckn Protocol Seller Gateway: Dynamic B2B/B2C catalog publishing, atomic stock reservation & on-network 3PL logistics handshake.
+- [**frappe-account-aggregator-fiu-engine**](https://github.com/shyampandey1104/frappe-account-aggregator-fiu-engine) — RBI Account Aggregator (AA) FIU: Encrypted bank statement ingestion, cash-flow diagnostics, bounce analytics & automated credit limits.
+- [**erpnext-dpdp-privacy-consent-engine**](https://github.com/shyampandey1104/erpnext-dpdp-privacy-consent-engine) — Digital Personal Data Protection (DPDP Act 2023): Granular purpose-specific consent notices, Right to Erasure PII anonymization & DPBI audit logs.
+- [**frappe-ev-battery-swap-telematics-engine**](https://github.com/shyampandey1104/frappe-ev-battery-swap-telematics-engine) — Smart EV Battery Swapping: BMS telemetry ingestion, thermal runaway safety interlocks, dynamic kWh metering & driver wallet debit.
+- [**erpnext-qsr-kitchen-display-aggregator**](https://github.com/shyampandey1104/erpnext-qsr-kitchen-display-aggregator) — Omnichannel QSR Kitchen Display System (KDS): Swiggy/Zomato/POS order normalization, station routing (Grill, Fryer) & live prep SLA countdown.
+- [**frappe-treds-dynamic-discounting-engine**](https://github.com/shyampandey1104/frappe-treds-dynamic-discounting-engine) — TReDS & Dynamic Discounting: Sliding-scale early payment discount yield calculator & institutional invoice factoring interface.
+- [**erpnext-abdm-nabh-healthcare-engine**](https://github.com/shyampandey1104/erpnext-abdm-nabh-healthcare-engine) — Ayushman Bharat ABDM M1-M3: 14-digit ABHA ID integration, HL7 FHIR R4 clinical bundle generator & NABH 5th edition hospital audits.
+- [**frappe-freight-audit-container-demurrage**](https://github.com/shyampandey1104/frappe-freight-audit-container-demurrage) — Ocean Freight Audit & Container Demurrage: Surcharge discrepancy detector (BAF, CAF, THC), free-time countdown & overcharge dispute filing.
+- [**erpnext-jobwork-itc04-gst-reconciler**](https://github.com/shyampandey1104/erpnext-jobwork-itc04-gst-reconciler) — Subcontracting CGST Sec 143: Rule 55 delivery challan tracking, 1-year aging deemed sale interest guard & Form GST ITC-04 quarterly returns.
+- [**frappe-ewaybill-multimodal-transshipment**](https://github.com/shyampandey1104/frappe-ewaybill-multimodal-transshipment) — E-Way Bill Multimodal Transshipment: Hub-and-spoke Part-B vehicle updates, Section 129 detention penalty guard & RFID FASTag toll correlation.
+
+### 🔬 2. Next-Gen High-Demand Enterprise Engines (GeM, MOOWR, EPR, NBFC, Fab MES, Maritime & Carbon)
+- [**erpnext-gem-portal-bid-contract-engine**](https://github.com/shyampandey1104/erpnext-gem-portal-bid-contract-engine) — GeM 4.0 Government e-Marketplace integration: Tender tracking, EMD Bank Guarantee management, L1 price simulation & CRAC invoicing.
+- [**frappe-customs-bonded-warehouse-moowr**](https://github.com/shyampandey1104/frappe-customs-bonded-warehouse-moowr) — Customs Act Sec 65 MOOWR scheme: In-bond manufacturing, 100% duty deferment ledger, and zero-interest export/domestic clearances.
+- [**erpnext-waste-management-epr-credit-trading**](https://github.com/shyampandey1104/erpnext-waste-management-epr-credit-trading) — CPCB Extended Producer Responsibility (EPR): Category I-IV plastic packaging obligation tracking, PIBO recycler audits & credit trading.
+- [**frappe-nbfc-co-lending-fldg-engine**](https://github.com/shyampandey1104/frappe-nbfc-co-lending-fldg-engine) — RBI CLM-2 Co-Lending Model: 80:20 Bank-NBFC risk split, daily escrow waterfall settlement & statutory 5% FLDG guarantee cap guard.
+- [**erpnext-semiconductor-wafer-fab-cleanroom-mes**](https://github.com/shyampandey1104/erpnext-semiconductor-wafer-fab-cleanroom-mes) — 300mm Wafer Fab Cleanroom MES: SEMI SECS/GEM tool interlocks, defect density heatmaps & Statistical Process Control (SPC) hold logic.
+- [**frappe-maritime-vessel-charter-bunker-logistics**](https://github.com/shyampandey1104/frappe-maritime-vessel-charter-bunker-logistics) — Ocean Shipping & Chartering: Statement of Facts laytime demurrage/despatch calculator & IMO 2020 0.50% sulphur bunker compliance.
+- [**erpnext-biopharma-clinical-trial-ctms-gcp**](https://github.com/shyampandey1104/erpnext-biopharma-clinical-trial-ctms-gcp) — ICH-GCP Clinical Trials CTMS: Double-blind block cohort randomization, 21 CFR Part 11 eCRF audits & expedited 24h SAE escalation.
+- [**frappe-data-center-pue-rack-dcim-billing**](https://github.com/shyampandey1104/frappe-data-center-pue-rack-dcim-billing) — Data Center DCIM: Real-time Power Usage Effectiveness (PUE) monitoring, ASHRAE thermal envelope check & 3-phase kWh power billing.
+- [**erpnext-mining-mineral-royalty-etp-transit-pass**](https://github.com/shyampandey1104/erpnext-mining-mineral-royalty-etp-transit-pass) — State Directorate of Mines e-Khanij: MMDR statutory royalty, 30% DMF / 2% NMET calculation, electronic Transit Pass (eTP) & RFID weighbridge gate.
+- [**frappe-carbon-credit-mrv-ghg-protocol-engine**](https://github.com/shyampandey1104/frappe-carbon-credit-mrv-ghg-protocol-engine) — Scope 1, 2 & 3 Carbon MRV: EU CBAM embodied carbon intensity per ton, ISO 14064 corporate emissions & Verra/Gold Standard offset retirement.
+
+### 🏢 3. Core ERPNext Official Enterprise Modules (HRMS, Payroll, Mfg, Buying, Selling & Accounts)
+- [**erpnext-hrms-full-lifecycle-engine**](https://github.com/shyampandey1104/erpnext-hrms-full-lifecycle-engine) — Complete HRMS: Hire-to-Retire workflow, biometric punch sync, shift schedules, leave ledgers & F&F Gratuity settlement.
+- [**frappe-payroll-salary-tax-engine**](https://github.com/shyampandey1104/frappe-payroll-salary-tax-engine) — Automated Payroll: Formula salary structures, bulk payroll entries, Indian PF, ESI, Professional Tax, TDS & bank payment journals.
+- [**erpnext-manufacturing-workorder-jobcard-engine**](https://github.com/shyampandey1104/erpnext-manufacturing-workorder-jobcard-engine) — Manufacturing Core: Multi-level BOM costing, production planning, workstation routing, job cards & scrap accounting.
+- [**erpnext-buying-procurement-cycle-engine**](https://github.com/shyampandey1104/erpnext-buying-procurement-cycle-engine) — Buying & Procurement: Material Requests, RFQ supplier comparison matrices, PO approvals, GRN & Landed Cost Vouchers.
+- [**erpnext-selling-order-fulfillment-engine**](https://github.com/shyampandey1104/erpnext-selling-order-fulfillment-engine) — Selling & Order Fulfillment: Lead-to-Cash, quotation slab pricing rules, sales order reservation, pick lists & GST invoicing.
+- [**erpnext-accounts-core-ledger-engine**](https://github.com/shyampandey1104/erpnext-accounts-core-ledger-engine) — Core Accounts: Double-entry General Ledger balancing, Chart of Accounts, payment allocations, bank auto-recon & Trial Balance.
+- [**frappe-crm-lead-opportunity-pipeline**](https://github.com/shyampandey1104/frappe-crm-lead-opportunity-pipeline) — Enterprise CRM: Predictive lead qualification scoring, Exotel click-to-call sync, WhatsApp KYC follow-up & opportunity stage funnels.
+- [**erpnext-stock-inventory-warehouse-engine**](https://github.com/shyampandey1104/erpnext-stock-inventory-warehouse-engine) — Stock & Warehouses: Real-time FIFO inventory ledger valuation, batch & serial life, automated reorder autopilot & cycle counting.
+- [**erpnext-projects-timesheet-costing-engine**](https://github.com/shyampandey1104/erpnext-projects-timesheet-costing-engine) — Projects & PSA: Work Breakdown Structures (WBS), milestone tracking, employee timesheets & project gross margin profitability.
+- [**frappe-quality-assurance-capa-engine**](https://github.com/shyampandey1104/frappe-quality-assurance-capa-engine) — Quality Management: Incoming, in-process & outgoing inspection tolerances, Non-Conformance Reports (NCR) & CAPA actions.
+
+### 🛒 4. POS Counters, WhatsApp, Twilio & Payment Integrations
+- [**erpnext-pos-pine-labs-payment-gateway**](https://github.com/shyampandey1104/erpnext-pos-pine-labs-payment-gateway) — Pine Labs Plutus Cloud / EDC Swipe Terminal POS payment gateway with auto-charge & dual-display settlement.
+- [**frappe-whatsapp-cloud-api-notifications**](https://github.com/shyampandey1104/frappe-whatsapp-cloud-api-notifications) — Meta WhatsApp Cloud API engine for automated invoices, payment reminders, and dispatch updates.
+- [**frappe-twilio-voice-sms-otp-gateway**](https://github.com/shyampandey1104/frappe-twilio-voice-sms-otp-gateway) — Twilio IVR voice calls, transactional SMS dispatch, and 2FA login OTP verification engine.
+- [**frappe-paybook-open-banking-aggregator**](https://github.com/shyampandey1104/frappe-paybook-open-banking-aggregator) — Paybook Sync & Account Aggregator open banking feeds with automated GL payment entry reconciliation.
+- [**erpnext-pos-offline-pwa-hybrid-counter**](https://github.com/shyampandey1104/erpnext-pos-offline-pwa-hybrid-counter) — PWA offline retail POS counter with hardware barcode listener and background queue sync.
+- [**erpnext-gst-tax-ledger-pnl-analytics**](https://github.com/shyampandey1104/erpnext-gst-tax-ledger-pnl-analytics) — Real-time P&L analytics computing EBITDA, net margins, working capital liquidity ratios & GSTR-3B balance audit.
+- [**erpnext-barcode-label-thermal-printer-engine**](https://github.com/shyampandey1104/erpnext-barcode-label-thermal-printer-engine) — Direct Zebra ZPL II / ESC-POS / TSPL thermal barcode label printer generator for retail and warehouses.
+- [**frappe-executive-owner-kpi-dashboard**](https://github.com/shyampandey1104/frappe-executive-owner-kpi-dashboard) — C-Suite Business Owner dashboard tracking cash runway, working capital, and dead-stock aging.
+- [**erpnext-upi-soundbox-instant-reconciliation**](https://github.com/shyampandey1104/erpnext-upi-soundbox-instant-reconciliation) — IoT UPI Soundbox (Paytm / PhonePe) audio confirmation webhook & zero-touch POS auto-settlement.
+- [**frappe-automated-purchase-expense-tracker**](https://github.com/shyampandey1104/frappe-automated-purchase-expense-tracker) — 3-Way PO vs GRN vs Invoice matching, departmental expense budgets, and vendor bill approval workflows.
+
+### 🏭 5. Tier-1 Heavy Industrial & Enterprise ERP Solutions
 - [**erpnext-pharmaceutical-batch-recall-21cfr11**](https://github.com/shyampandey1104/erpnext-pharmaceutical-batch-recall-21cfr11) — Pharma FDA 21 CFR Part 11 Electronic Batch Records (eBR) & forward/backward drug recall containment.
 - [**frappe-insurance-policy-claims-adjudication**](https://github.com/shyampandey1104/frappe-insurance-policy-claims-adjudication) — Health & General insurance claims underwriting, deductible calculations & cashless settlement vouchers.
 - [**erpnext-mining-quarry-weighbridge-automation**](https://github.com/shyampandey1104/erpnext-mining-quarry-weighbridge-automation) — Pit-head weighbridge IoT scale integration, e-Ravanna mineral transit pass & axle overload enforcement.
@@ -77,102 +130,6 @@
 - [**frappe-hospital-inpatient-ipd-bed-manager**](https://github.com/shyampandey1104/frappe-hospital-inpatient-ipd-bed-manager) — Hospital In-Patient Department (IPD) ward bed manager, ICU allocations & TPA cashless billing.
 - [**erpnext-energy-scada-carbon-accounting**](https://github.com/shyampandey1104/erpnext-energy-scada-carbon-accounting) — Industrial SCADA energy meter telemetry & Scope 1/2/3 GHG carbon emission footprint ledger.
 
-### ⚙️ 3. Ultra-Specialized Mission-Critical Industrial Solutions
-- [**erpnext-automotive-oem-edi-deljit-sequencer**](https://github.com/shyampandey1104/erpnext-automotive-oem-edi-deljit-sequencer) — Automotive OEM EDI DELJIT / DELFOR message parser & Just-In-Sequence (JIS) line-stoppage buffer monitor.
-- [**frappe-esg-bser-sustainability-reporting**](https://github.com/shyampandey1104/frappe-esg-bser-sustainability-reporting) — SEBI BRSR Core ESG sustainability reporting, Scope 1/2 GHG, water neutrality & Section 135 CSR 2% ledger.
-- [**erpnext-chemical-sds-reach-compliance**](https://github.com/shyampandey1104/erpnext-chemical-sds-reach-compliance) — Chemical GHS 16-section Safety Data Sheet (SDS), CAS tonnage tracking & EU REACH compliance.
-- [**frappe-procurement-reverse-auction-engine**](https://github.com/shyampandey1104/frappe-procurement-reverse-auction-engine) — Strategic e-procurement reverse auctions with decrement validation & anti-sniping dynamic timers.
-- [**erpnext-loan-syndication-consortium-ledger**](https://github.com/shyampandey1104/erpnext-loan-syndication-consortium-ledger) — Multi-bank consortium loan syndication, pari-passu drawdowns & pro-rata waterfall repayments.
-- [**frappe-cold-chain-vaccine-vvm-telemetry**](https://github.com/shyampandey1104/frappe-cold-chain-vaccine-vvm-telemetry) — Healthcare vaccine cold-chain monitoring, Haynes Mean Kinetic Temperature (MKT) & VVM stage degradation.
-- [**erpnext-dairy-chilling-center-fat-snf-incentive**](https://github.com/shyampandey1104/erpnext-dairy-chilling-center-fat-snf-incentive) — Milk chilling center ultrasonic analyzer, Richmond's SNF formula, 2-axis payment matrix & adulteration interlock.
-- [**frappe-heavy-equipment-rental-telematics-billing**](https://github.com/shyampandey1104/frappe-heavy-equipment-rental-telematics-billing) — Heavy machinery rental, GPS engine run-hour telematics, overtime surcharges & mobilization fees.
-- [**erpnext-tea-estate-plucking-wage-incentive**](https://github.com/shyampandey1104/erpnext-tea-estate-plucking-wage-incentive) — Tea plantation Bluetooth weighing scales, statutory quota extra-leaf incentives & Fine Leaf Count (FLC) premiums.
-- [**frappe-distillery-excise-ethanol-blending-ledger**](https://github.com/shyampandey1104/frappe-distillery-excise-ethanol-blending-ledger) — Distillery state excise permits, London Proof Litre (LPL) hydrometer calibration & OMC E20 ethanol dispatch.
-
-### 🏢 2. Frappe & ERPNext Commercial Apps
-- [**frappe-hotel-pms**](https://github.com/shyampandey1104/frappe-hotel-pms) — Property Management System, guest folio accounting, housekeeping state machines, and occupancy charts.
-- [**frappe-healthcare-clinic**](https://github.com/shyampandey1104/frappe-healthcare-clinic) — Outpatient clinic OPD, token queues, electronic health records (EHR), and prescription billing.
-- [**frappe-school-campus-erp**](https://github.com/shyampandey1104/frappe-school-campus-erp) — Campus management, student fee schedules, attendance tracking, and report cards.
-- [**erpnext-real-estate-crm**](https://github.com/shyampandey1104/erpnext-real-estate-crm) — Property CRM, lease escalation schedules, floor inventory, and unit booking tokens.
-- [**erpnext-solar-epc-project-tracker**](https://github.com/shyampandey1104/erpnext-solar-epc-project-tracker) — Solar EPC rooftop/utility tracker with shadow irradiation factor analysis and net-metering.
-- [**frappe-dairy-milk-procurement**](https://github.com/shyampandey1104/frappe-dairy-milk-procurement) — Cooperative milk collection, ultrasonic Fat% & SNF% rate chart calculation, and farmer payouts.
-- [**erpnext-textile-dyeing-recipe-manager**](https://github.com/shyampandey1104/erpnext-textile-dyeing-recipe-manager) — Pantone lab dip formulations, liquor ratio bath volume, and chemical dispensing BOM.
-
-### 🤖 2. AI Copilots & Intelligent Agents
-- [**erpnext-rag-copilot**](https://github.com/shyampandey1104/erpnext-rag-copilot) — Enterprise RAG natural language copilot indexing company manuals and executing Frappe queries.
-- [**erpnext-ai-reconcile-agent**](https://github.com/shyampandey1104/erpnext-ai-reconcile-agent) — AI fuzzy statement reconciliation matching bank PDF lines with General Ledger entries.
-- [**frappe-ai-doc-scanner**](https://github.com/shyampandey1104/frappe-ai-doc-scanner) — Computer vision invoice parser extracting tax amounts, line items, and vendor GSTINs.
-- [**erpnext-ai-inventory-forecast**](https://github.com/shyampandey1104/erpnext-ai-inventory-forecast) — Demand time-series forecasting with safety stock buffers and automated stock reordering.
-- [**erpnext-ai-sentiment-analyzer**](https://github.com/shyampandey1104/erpnext-ai-sentiment-analyzer) — Customer ticket frustration scorer and churn predictor with priority escalation.
-- [**frappe-ai-hr-recruiter**](https://github.com/shyampandey1104/frappe-ai-hr-recruiter) — Resume parser and semantic candidate matching engine scoring applicants against job roles.
-
-### 💳 3. FinTech, GST Billing & Core Ledgers
-- [**karobaar-gst-billing**](https://github.com/shyampandey1104/karobaar-gst-billing) — Full-featured Vyapar alternative in authentic Hindi/Hinglish with dynamic UPI QR & AI Voice Dictation.
-- [**python-microfinance-banking-engine**](https://github.com/shyampandey1104/python-microfinance-banking-engine) — Microfinance core banking ledger, reducing balance EMI amortization, and penalty engines.
-- [**erpnext-e-invoice-gst-bridge**](https://github.com/shyampandey1104/erpnext-e-invoice-gst-bridge) — Indian GST E-Invoicing & E-Way Bill JSON auto-generation gateway for ERPNext.
-- [**python-crypto-orderbook-matching-engine**](https://github.com/shyampandey1104/python-crypto-orderbook-matching-engine) — In-memory L2 Limit Order Book (LOB) matching engine with Price-Time priority FIFO queue.
-- [**python-toll-plaza-fastag-simulator**](https://github.com/shyampandey1104/python-toll-plaza-fastag-simulator) — NHAI electronic toll collection (ETC) RFID scanner, axle classification, and barrier control.
-- [**python-parking-lot-anpr-billing**](https://github.com/shyampandey1104/python-parking-lot-anpr-billing) — Automatic Number Plate Recognition (ANPR) parking management with dynamic hourly slab tariffs.
-
-### 🚚 4. Logistics, Supply Chain & IoT
-- [**erpnext-fleet-logistics-manager**](https://github.com/shyampandey1104/erpnext-fleet-logistics-manager) — Commercial fleet fuel audit, GPS geofencing, and driver behavior monitoring.
-- [**erpnext-cold-storage-warehouse-manager**](https://github.com/shyampandey1104/erpnext-cold-storage-warehouse-manager) — Multi-chamber temperature IoT telemetry (-25°C to +10°C) with pallet space rental billing.
-- [**frappe-car-rental-fleet-dispatch**](https://github.com/shyampandey1104/frappe-car-rental-fleet-dispatch) — Self-drive car rental dispatch, odometer tracking, and security deposit escrow.
-- [**erpnext-iot-telemetry-gateway**](https://github.com/shyampandey1104/erpnext-iot-telemetry-gateway) — Industry 4.0 MQTT sensor streaming gateway feeding temperature/vibration logs into ERPNext.
-- [**frappe-blood-bank-donor-registry**](https://github.com/shyampandey1104/frappe-blood-bank-donor-registry) — Blood component separation (PRBC, Platelets, FFP), FEFO shelf-life dispatch, and cross-matching.
-
-### 🛒 5. POS Counters, WhatsApp, Twilio & Modern ERPNext Integrations
-- [**erpnext-pos-pine-labs-payment-gateway**](https://github.com/shyampandey1104/erpnext-pos-pine-labs-payment-gateway) — Pine Labs Plutus Cloud / EDC Swipe Terminal POS payment gateway with auto-charge & dual-display settlement.
-- [**frappe-whatsapp-cloud-api-notifications**](https://github.com/shyampandey1104/frappe-whatsapp-cloud-api-notifications) — Meta WhatsApp Cloud API engine for automated invoices, payment reminders, and dispatch updates.
-- [**frappe-twilio-voice-sms-otp-gateway**](https://github.com/shyampandey1104/frappe-twilio-voice-sms-otp-gateway) — Twilio IVR voice calls, transactional SMS dispatch, and 2FA login OTP verification engine.
-- [**frappe-paybook-open-banking-aggregator**](https://github.com/shyampandey1104/frappe-paybook-open-banking-aggregator) — Paybook Sync & Account Aggregator open banking feeds with automated GL payment entry reconciliation.
-- [**erpnext-pos-offline-pwa-hybrid-counter**](https://github.com/shyampandey1104/erpnext-pos-offline-pwa-hybrid-counter) — PWA offline retail POS counter with hardware barcode listener and background queue sync.
-- [**erpnext-gst-tax-ledger-pnl-analytics**](https://github.com/shyampandey1104/erpnext-gst-tax-ledger-pnl-analytics) — Real-time P&L analytics computing EBITDA, net margins, working capital liquidity ratios & GSTR-3B balance audit.
-- [**erpnext-barcode-label-thermal-printer-engine**](https://github.com/shyampandey1104/erpnext-barcode-label-thermal-printer-engine) — Direct Zebra ZPL II / ESC-POS / TSPL thermal barcode label printer generator for retail and warehouses.
-- [**frappe-executive-owner-kpi-dashboard**](https://github.com/shyampandey1104/frappe-executive-owner-kpi-dashboard) — C-Suite Business Owner dashboard tracking cash runway, working capital, and dead-stock aging.
-- [**erpnext-upi-soundbox-instant-reconciliation**](https://github.com/shyampandey1104/erpnext-upi-soundbox-instant-reconciliation) — IoT UPI Soundbox (Paytm / PhonePe) audio confirmation webhook & zero-touch POS auto-settlement.
-- [**frappe-automated-purchase-expense-tracker**](https://github.com/shyampandey1104/frappe-automated-purchase-expense-tracker) — 3-Way PO vs GRN vs Invoice matching, departmental expense budgets, and vendor bill approval workflows.
-
-### 🏢 6. Core ERPNext Official Enterprise Modules (HRMS, Payroll, Mfg, Buying, Selling & Accounts)
-- [**erpnext-hrms-full-lifecycle-engine**](https://github.com/shyampandey1104/erpnext-hrms-full-lifecycle-engine) — Complete HRMS: Hire-to-Retire workflow, biometric punch sync, shift schedules, leave ledgers & F&F Gratuity settlement.
-- [**frappe-payroll-salary-tax-engine**](https://github.com/shyampandey1104/frappe-payroll-salary-tax-engine) — Automated Payroll: Formula salary structures, bulk payroll entries, Indian PF, ESI, Professional Tax, TDS & bank payment journals.
-- [**erpnext-manufacturing-workorder-jobcard-engine**](https://github.com/shyampandey1104/erpnext-manufacturing-workorder-jobcard-engine) — Manufacturing Core: Multi-level BOM costing, production planning, workstation routing, job cards & scrap accounting.
-- [**erpnext-buying-procurement-cycle-engine**](https://github.com/shyampandey1104/erpnext-buying-procurement-cycle-engine) — Buying & Procurement: Material Requests, RFQ supplier comparison matrices, PO approvals, GRN & Landed Cost Vouchers.
-- [**erpnext-selling-order-fulfillment-engine**](https://github.com/shyampandey1104/erpnext-selling-order-fulfillment-engine) — Selling & Order Fulfillment: Lead-to-Cash, quotation slab pricing rules, sales order reservation, pick lists & GST invoicing.
-- [**erpnext-accounts-core-ledger-engine**](https://github.com/shyampandey1104/erpnext-accounts-core-ledger-engine) — Core Accounts: Double-entry General Ledger balancing, Chart of Accounts, payment allocations, bank auto-recon & Trial Balance.
-- [**frappe-crm-lead-opportunity-pipeline**](https://github.com/shyampandey1104/frappe-crm-lead-opportunity-pipeline) — Enterprise CRM: Predictive lead qualification scoring, Exotel click-to-call sync, WhatsApp KYC follow-up & opportunity stage funnels.
-- [**erpnext-stock-inventory-warehouse-engine**](https://github.com/shyampandey1104/erpnext-stock-inventory-warehouse-engine) — Stock & Warehouses: Real-time FIFO inventory ledger valuation, batch & serial life, automated reorder autopilot & cycle counting.
-- [**erpnext-projects-timesheet-costing-engine**](https://github.com/shyampandey1104/erpnext-projects-timesheet-costing-engine) — Projects & PSA: Work Breakdown Structures (WBS), milestone tracking, employee timesheets & project gross margin profitability.
-- [**frappe-quality-assurance-capa-engine**](https://github.com/shyampandey1104/frappe-quality-assurance-capa-engine) — Quality Management: Incoming, in-process & outgoing inspection tolerances, Non-Conformance Reports (NCR) & CAPA actions.
-
-### 🔬 7. Next-Gen High-Demand Enterprise Engines (GeM, MOOWR, EPR, NBFC, Fab MES, Maritime & Carbon)
-- [**erpnext-gem-portal-bid-contract-engine**](https://github.com/shyampandey1104/erpnext-gem-portal-bid-contract-engine) — GeM 4.0 Government e-Marketplace integration: Tender tracking, EMD Bank Guarantee management, L1 price simulation & CRAC invoicing.
-- [**frappe-customs-bonded-warehouse-moowr**](https://github.com/shyampandey1104/frappe-customs-bonded-warehouse-moowr) — Customs Act Sec 65 MOOWR scheme: In-bond manufacturing, 100% duty deferment ledger, and zero-interest export/domestic clearances.
-- [**erpnext-waste-management-epr-credit-trading**](https://github.com/shyampandey1104/erpnext-waste-management-epr-credit-trading) — CPCB Extended Producer Responsibility (EPR): Category I-IV plastic packaging obligation tracking, PIBO recycler audits & credit trading.
-- [**frappe-nbfc-co-lending-fldg-engine**](https://github.com/shyampandey1104/frappe-nbfc-co-lending-fldg-engine) — RBI CLM-2 Co-Lending Model: 80:20 Bank-NBFC risk split, daily escrow waterfall settlement & statutory 5% FLDG guarantee cap guard.
-- [**erpnext-semiconductor-wafer-fab-cleanroom-mes**](https://github.com/shyampandey1104/erpnext-semiconductor-wafer-fab-cleanroom-mes) — 300mm Wafer Fab Cleanroom MES: SEMI SECS/GEM tool interlocks, defect density heatmaps & Statistical Process Control (SPC) hold logic.
-- [**frappe-maritime-vessel-charter-bunker-logistics**](https://github.com/shyampandey1104/frappe-maritime-vessel-charter-bunker-logistics) — Ocean Shipping & Chartering: Statement of Facts laytime demurrage/despatch calculator & IMO 2020 0.50% sulphur bunker compliance.
-- [**erpnext-biopharma-clinical-trial-ctms-gcp**](https://github.com/shyampandey1104/erpnext-biopharma-clinical-trial-ctms-gcp) — ICH-GCP Clinical Trials CTMS: Double-blind block cohort randomization, 21 CFR Part 11 eCRF audits & expedited 24h SAE escalation.
-- [**frappe-data-center-pue-rack-dcim-billing**](https://github.com/shyampandey1104/frappe-data-center-pue-rack-dcim-billing) — Data Center DCIM: Real-time Power Usage Effectiveness (PUE) monitoring, ASHRAE thermal envelope check & 3-phase kWh power billing.
-- [**erpnext-mining-mineral-royalty-etp-transit-pass**](https://github.com/shyampandey1104/erpnext-mining-mineral-royalty-etp-transit-pass) — State Directorate of Mines e-Khanij: MMDR statutory royalty, 30% DMF / 2% NMET calculation, electronic Transit Pass (eTP) & RFID weighbridge gate.
-- [**frappe-carbon-credit-mrv-ghg-protocol-engine**](https://github.com/shyampandey1104/frappe-carbon-credit-mrv-ghg-protocol-engine) — Scope 1, 2 & 3 Carbon MRV: EU CBAM embodied carbon intensity per ton, ISO 14064 corporate emissions & Verra/Gold Standard offset retirement.
-
-### ⚡ 8. Active Client Pain-Point Solvers (ONDC, Account Aggregator, DPDP Act, EV Battery, QSR & TReDS)
-- [**erpnext-ondc-network-seller-gateway**](https://github.com/shyampandey1104/erpnext-ondc-network-seller-gateway) — ONDC Beckn Protocol Seller Gateway: Dynamic B2B/B2C catalog publishing, atomic stock reservation & on-network 3PL logistics handshake.
-- [**frappe-account-aggregator-fiu-engine**](https://github.com/shyampandey1104/frappe-account-aggregator-fiu-engine) — RBI Account Aggregator (AA) FIU: Encrypted bank statement ingestion, cash-flow diagnostics, bounce analytics & automated credit limits.
-- [**erpnext-dpdp-privacy-consent-engine**](https://github.com/shyampandey1104/erpnext-dpdp-privacy-consent-engine) — Digital Personal Data Protection (DPDP Act 2023): Granular purpose-specific consent notices, Right to Erasure PII anonymization & DPBI audit logs.
-- [**frappe-ev-battery-swap-telematics-engine**](https://github.com/shyampandey1104/frappe-ev-battery-swap-telematics-engine) — Smart EV Battery Swapping: BMS telemetry ingestion, thermal runaway safety interlocks, dynamic kWh metering & driver wallet debit.
-- [**erpnext-qsr-kitchen-display-aggregator**](https://github.com/shyampandey1104/erpnext-qsr-kitchen-display-aggregator) — Omnichannel QSR Kitchen Display System (KDS): Swiggy/Zomato/POS order normalization, station routing (Grill, Fryer) & live prep SLA countdown.
-- [**frappe-treds-dynamic-discounting-engine**](https://github.com/shyampandey1104/frappe-treds-dynamic-discounting-engine) — TReDS & Dynamic Discounting: Sliding-scale early payment discount yield calculator & institutional invoice factoring interface.
-- [**erpnext-abdm-nabh-healthcare-engine**](https://github.com/shyampandey1104/erpnext-abdm-nabh-healthcare-engine) — Ayushman Bharat ABDM M1-M3: 14-digit ABHA ID integration, HL7 FHIR R4 clinical bundle generator & NABH 5th edition hospital audits.
-- [**frappe-freight-audit-container-demurrage**](https://github.com/shyampandey1104/frappe-freight-audit-container-demurrage) — Ocean Freight Audit & Container Demurrage: Surcharge discrepancy detector (BAF, CAF, THC), free-time countdown & overcharge dispute filing.
-- [**erpnext-jobwork-itc04-gst-reconciler**](https://github.com/shyampandey1104/erpnext-jobwork-itc04-gst-reconciler) — Subcontracting CGST Sec 143: Rule 55 delivery challan tracking, 1-year aging deemed sale interest guard & Form GST ITC-04 quarterly returns.
-- [**frappe-ewaybill-multimodal-transshipment**](https://github.com/shyampandey1104/frappe-ewaybill-multimodal-transshipment) — E-Way Bill Multimodal Transshipment: Hub-and-spoke Part-B vehicle updates, Section 129 detention penalty guard & RFID FASTag toll correlation.
-
-
-
-
-
 ---
 
 ## 📊 GitHub Analytics
@@ -190,14 +147,6 @@
 
 ---
 
-## 📬 Let's Connect & Collaborate!
-
-I am always interested in discussing **ERPNext customizations, Frappe app development, Python backend architectures, and AI integrations**.
-
-- **Email:** [shyampandey1104@gmail.com](mailto:shyampandey1104@gmail.com)
-- **LinkedIn:** [linkedin.com/in/shyampandey](https://www.linkedin.com)
-- **GitHub:** [@shyampandey1104](https://github.com/shyampandey1104)
-
 <div align="center">
-  <sub>Built with ❤️ by Shyamkumar Pandey • Star ⭐ any repository if you find it helpful!</sub>
+  <sub>Built with ❤️ by Shyam Kumar Pandey • Dedicated to High-Performance Enterprise Architecture</sub>
 </div>
