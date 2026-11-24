@@ -185,6 +185,19 @@ Rather than generic software customization, my focus centers on building resilie
 - [**frappe-hospital-inpatient-ipd-bed-manager**](https://github.com/shyampandey1104/frappe-hospital-inpatient-ipd-bed-manager) — Hospital In-Patient Department (IPD) ward bed manager, ICU allocations & TPA cashless billing.
 - [**erpnext-energy-scada-carbon-accounting**](https://github.com/shyampandey1104/erpnext-energy-scada-carbon-accounting) — Industrial SCADA energy meter telemetry & Scope 1/2/3 GHG carbon emission footprint ledger.
 
+### 🛡️ 6. Mission-Critical Defence, Energy, Aerospace & Statutory Governance Systems
+- [**erpnext-defence-offset-compliance-dpp**](https://github.com/shyampandey1104/erpnext-defence-offset-compliance-dpp) — MoD DAP 2020 Defence Offsets: DOMW multiplier calculation (1.5x MSME / 2.0x tech), credit banking ledger & liquidated damages guard.
+- [**frappe-cross-border-wire-fema-inward-remittance**](https://github.com/shyampandey1104/frappe-cross-border-wire-fema-inward-remittance) — FEMA Inward Remittances: SWIFT MT103 wire parsing, RBI Purpose Code classification, bank FX spread audit & e-FIRA document vault.
+- [**erpnext-oil-gas-upstream-joint-venture-accounting**](https://github.com/shyampandey1104/erpnext-oil-gas-upstream-joint-venture-accounting) — Upstream E&P Joint Ventures: Joint Interest Billing (JIB), working interest cash calls & AFE capital expenditure ceiling controls.
+- [**frappe-green-hydrogen-electrolyzer-telematics-cert**](https://github.com/shyampandey1104/frappe-green-hydrogen-electrolyzer-telematics-cert) — National Green Hydrogen Mission (NGHM): Electrolyzer stack telemetry, specific energy consumption (kWh/kg H2) & Guarantee of Origin (GO) certificates.
+- [**erpnext-battery-energy-storage-bess-arbitrage**](https://github.com/shyampandey1104/erpnext-battery-energy-storage-bess-arbitrage) — Utility-Scale BESS Energy Arbitrage: IEX DAM/RTM power price feed ingestion, optimal dispatch scheduling & cycle degradation warranty guard.
+- [**frappe-reit-commercial-tenant-escalation-cam**](https://github.com/shyampandey1104/frappe-reit-commercial-tenant-escalation-cam) — REIT Commercial Grade-A Leasing: Multi-year rent escalation schedules, pro-rata super-built-up CAM allocations & annual true-up adjustments.
+- [**erpnext-fertilizer-dbt-pos-subsidy-reconciliation**](https://github.com/shyampandey1104/erpnext-fertilizer-dbt-pos-subsidy-reconciliation) — Department of Fertilizers DBT mFMS POS: Aadhaar biometric authentication sync, farmer cash MRP & central government subsidy receivable claims.
+- [**frappe-cold-storage-wdrb-negotiable-warehouse-receipt**](https://github.com/shyampandey1104/frappe-cold-storage-wdrb-negotiable-warehouse-receipt) — WDRA Agri-Commodity e-NWR: Electronic Negotiable Warehouse Receipts, statutory moisture shrinkage allowances & bank pledge lien management.
+- [**erpnext-aerospace-as9100-first-article-inspection**](https://github.com/shyampandey1104/erpnext-aerospace-as9100-first-article-inspection) — Aerospace AS9100 Rev D & SAE AS9102: First Article Inspection (FAI Form 1-3), CMM dimensional tolerance verification & airworthiness release gates.
+- [**frappe-csr-section135-impact-grant-management**](https://github.com/shyampandey1104/frappe-csr-section135-impact-grant-management) — Companies Act Sec 135 Mandatory 2% CSR: 3-year net profit budget calculator, MCA Form CSR-1 NGO validation & milestone tranche disbursements.
+
+
 ---
 
 ## 📊 GitHub Analytics
