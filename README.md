@@ -40,7 +40,7 @@ Rather than generic software customization, my focus centers on building resilie
 
 ### 🏆 Key Engineering Milestones
 
-- 🌐 **130+ Specialized Enterprise Repositories** — Built and published an exhaustive suite of open-source ERP engines solving real-world client operational bottlenecks.
+- 🌐 **140+ Specialized Enterprise Repositories** — Built and published an exhaustive suite of open-source ERP engines solving real-world client operational bottlenecks.
 - 🏭 **Industrial-Scale Transaction Processing** — Architected ERPNext multi-warehouse FIFO systems handling tens of thousands of stock ledger entries daily.
 - 🔒 **Cryptographic Audit Assurance** — Implemented tamper-evident SHA-256 hash-chained audit trails meeting stringent statutory regulatory audits.
 - 📑 **Published Research Contributor** — IEEE published researcher with strong foundations in algorithmic efficiency, signal processing, and telecommunication protocols.
@@ -153,7 +153,19 @@ Rather than generic software customization, my focus centers on building resilie
 - [**frappe-pharmacy-batch-expiry-tracker**](https://github.com/shyampandey1104/frappe-pharmacy-batch-expiry-tracker) — Retail & Hospital Pharmacy: FEFO/FIFO batch dispensing, Schedule H drug prescription compliance & automated expiry alerts.
 - [**frappe-dairy-milk-procurement**](https://github.com/shyampandey1104/frappe-dairy-milk-procurement) — Cooperative Dairy Procurement: Village chilling center milk collection, automated Fat/SNF analyzer integration & direct farmer payout.
 
-### ⚡ 3. Active Client Pain-Point Solvers (ONDC, Account Aggregator, DPDP Act, EV Battery, QSR & TReDS)
+### ⚡ 3. Frappe & ERPNext Version 16 Enterprise Next-Gen Suite (OpenTelemetry, ZATCA v16, Event Workflows, AMR MES, Vector Search, CBAM Carbon, IDP OCR, Metered Billing)
+- [**frappe-v16-opentelemetry-apm-distributed-tracing**](https://github.com/shyampandey1104/frappe-v16-opentelemetry-apm-distributed-tracing) — Frappe v16 Native Distributed Tracing: OpenTelemetry APM instrumentation, W3C trace context propagation, MariaDB query latency profiler & OTLP exporter.
+- [**erpnext-v16-global-tax-matrix-zatca-peppol**](https://github.com/shyampandey1104/erpnext-v16-global-tax-matrix-zatca-peppol) — ERPNext v16 Global Tax Compliance: Multi-jurisdiction dynamic tax engine, ZATCA Phase 2 cryptographic e-invoicing, PEPPOL BIS 3.0 UBL XML & UAE Corporate Tax 9%.
+- [**frappe-v16-workflow-sla-event-driven-engine**](https://github.com/shyampandey1104/frappe-v16-workflow-sla-event-driven-engine) — Frappe v16 Event-Driven Workflow Engine: Multi-approver quorum consensus, dynamic state transitions, SLA breach countdown timers & automated escalation hooks.
+- [**erpnext-v16-metered-subscription-billing-engine**](https://github.com/shyampandey1104/erpnext-v16-metered-subscription-billing-engine) — ERPNext v16 Metered SaaS Billing: High-throughput usage-based consumption ingestion, tiered/graduated pricing matrix & automated sales invoices.
+- [**frappe-v16-semantic-search-rag-vector-copilot**](https://github.com/shyampandey1104/frappe-v16-semantic-search-rag-vector-copilot) — Frappe v16 Semantic Vector Search: DocType vector embedding search (MariaDB Vector / pgvector), cosine similarity search & RAG prompt context copilot.
+- [**erpnext-v16-amr-agv-robotics-warehouse-mes**](https://github.com/shyampandey1104/erpnext-v16-amr-agv-robotics-warehouse-mes) — ERPNext v16 Warehouse Robotics MES: VDA 5050 AGV/AMR protocol interfacing, automated tote delivery dispatch, pick-to-light slotting & battery state machine.
+- [**frappe-v16-intelligent-document-ocr-extractor**](https://github.com/shyampandey1104/frappe-v16-intelligent-document-ocr-extractor) — Frappe v16 AI Intelligent Document Processing (IDP): PDF vendor invoice/PO OCR text & line-item parsing with automated Purchase Invoice generation.
+- [**erpnext-v16-esg-cbam-carbon-accounting-ledger**](https://github.com/shyampandey1104/erpnext-v16-esg-cbam-carbon-accounting-ledger) — ERPNext v16 ESG & CBAM Carbon Ledger: Corporate sustainability accounting, Scope 1-3 GHG ledgers, BOM carbon intensity per SKU & EU CBAM declarations.
+- [**frappe-v16-realtime-collaborative-desk-engine**](https://github.com/shyampandey1104/frappe-v16-realtime-collaborative-desk-engine) — Frappe v16 Collaborative Desk Engine: WebSocket multi-user real-time document editing, live presence cursor awareness, field-level locking & conflict resolution.
+- [**erpnext-v16-fsm-geofence-smart-dispatcher**](https://github.com/shyampandey1104/erpnext-v16-fsm-geofence-smart-dispatcher) — ERPNext v16 Field Service Management (FSM): Haversine GPS geofenced technician check-in, traveling van spare-parts replenishment & digital customer sign-off.
+
+### 🌐 4. Active Client Pain-Point Solvers (ONDC, Account Aggregator, DPDP Act, EV Battery, QSR & TReDS)
 - [**erpnext-ondc-network-seller-gateway**](https://github.com/shyampandey1104/erpnext-ondc-network-seller-gateway) — ONDC Beckn Protocol Seller Gateway: Dynamic B2B/B2C catalog publishing, atomic stock reservation & on-network 3PL logistics handshake.
 - [**frappe-account-aggregator-fiu-engine**](https://github.com/shyampandey1104/frappe-account-aggregator-fiu-engine) — RBI Account Aggregator (AA) FIU: Encrypted bank statement ingestion, cash-flow diagnostics, bounce analytics & automated credit limits.
 - [**erpnext-dpdp-privacy-consent-engine**](https://github.com/shyampandey1104/erpnext-dpdp-privacy-consent-engine) — Digital Personal Data Protection (DPDP Act 2023): Granular purpose-specific consent notices, Right to Erasure PII anonymization & DPBI audit logs.
@@ -165,7 +177,7 @@ Rather than generic software customization, my focus centers on building resilie
 - [**erpnext-jobwork-itc04-gst-reconciler**](https://github.com/shyampandey1104/erpnext-jobwork-itc04-gst-reconciler) — Subcontracting CGST Sec 143: Rule 55 delivery challan tracking, 1-year aging deemed sale interest guard & Form GST ITC-04 quarterly returns.
 - [**frappe-ewaybill-multimodal-transshipment**](https://github.com/shyampandey1104/frappe-ewaybill-multimodal-transshipment) — E-Way Bill Multimodal Transshipment: Hub-and-spoke Part-B vehicle updates, Section 129 detention penalty guard & RFID FASTag toll correlation.
 
-### 🔬 4. Next-Gen High-Demand Enterprise Engines (GeM, MOOWR, EPR, NBFC, Fab MES, Maritime & Carbon)
+### 🔬 5. Next-Gen High-Demand Enterprise Engines (GeM, MOOWR, EPR, NBFC, Fab MES, Maritime & Carbon)
 - [**erpnext-gem-portal-bid-contract-engine**](https://github.com/shyampandey1104/erpnext-gem-portal-bid-contract-engine) — GeM 4.0 Government e-Marketplace integration: Tender tracking, EMD Bank Guarantee management, L1 price simulation & CRAC invoicing.
 - [**frappe-customs-bonded-warehouse-moowr**](https://github.com/shyampandey1104/frappe-customs-bonded-warehouse-moowr) — Customs Act Sec 65 MOOWR scheme: In-bond manufacturing, 100% duty deferment ledger, and zero-interest export/domestic clearances.
 - [**erpnext-waste-management-epr-credit-trading**](https://github.com/shyampandey1104/erpnext-waste-management-epr-credit-trading) — CPCB Extended Producer Responsibility (EPR): Category I-IV plastic packaging obligation tracking, PIBO recycler audits & credit trading.
@@ -177,7 +189,7 @@ Rather than generic software customization, my focus centers on building resilie
 - [**erpnext-mining-mineral-royalty-etp-transit-pass**](https://github.com/shyampandey1104/erpnext-mining-mineral-royalty-etp-transit-pass) — State Directorate of Mines e-Khanij: MMDR statutory royalty, 30% DMF / 2% NMET calculation, electronic Transit Pass (eTP) & RFID weighbridge gate.
 - [**frappe-carbon-credit-mrv-ghg-protocol-engine**](https://github.com/shyampandey1104/frappe-carbon-credit-mrv-ghg-protocol-engine) — Scope 1, 2 & 3 Carbon MRV: EU CBAM embodied carbon intensity per ton, ISO 14064 corporate emissions & Verra/Gold Standard offset retirement.
 
-### 💳 5. FinTech, Retail POS, WhatsApp & Payment Integrations
+### 💳 6. FinTech, Retail POS, WhatsApp & Payment Integrations
 - [**erpnext-pos-pine-labs-payment-gateway**](https://github.com/shyampandey1104/erpnext-pos-pine-labs-payment-gateway) — Pine Labs Plutus Cloud / EDC Swipe Terminal POS payment gateway with auto-charge & dual-display settlement.
 - [**frappe-whatsapp-cloud-api-notifications**](https://github.com/shyampandey1104/frappe-whatsapp-cloud-api-notifications) — Meta WhatsApp Cloud API engine for automated invoices, payment reminders, and dispatch updates.
 - [**frappe-twilio-voice-sms-otp-gateway**](https://github.com/shyampandey1104/frappe-twilio-voice-sms-otp-gateway) — Twilio IVR voice calls, transactional SMS dispatch, and 2FA login OTP verification engine.
@@ -189,7 +201,7 @@ Rather than generic software customization, my focus centers on building resilie
 - [**frappe-automated-purchase-expense-tracker**](https://github.com/shyampandey1104/frappe-automated-purchase-expense-tracker) — 3-Way PO vs GRN vs Invoice matching, departmental expense budgets, and vendor bill approval workflows.
 - [**frappe-omnichannel-loyalty-engine**](https://github.com/shyampandey1104/frappe-omnichannel-loyalty-engine) — Omnichannel Loyalty & Rewards: Tier-based points accrual, redemption rules & WhatsApp balance notifications.
 
-### 🛡️ 6. Mission-Critical Defence, Energy, Aerospace & Heavy Industrial Solutions
+### 🛡️ 7. Mission-Critical Defence, Energy, Aerospace & Heavy Industrial Solutions
 - [**erpnext-defence-offset-compliance-dpp**](https://github.com/shyampandey1104/erpnext-defence-offset-compliance-dpp) — MoD DAP 2020 Defence Offsets: DOMW multiplier calculation (1.5x MSME / 2.0x tech), credit banking ledger & liquidated damages guard.
 - [**frappe-cross-border-wire-fema-inward-remittance**](https://github.com/shyampandey1104/frappe-cross-border-wire-fema-inward-remittance) — FEMA Inward Remittances: SWIFT MT103 wire parsing, RBI Purpose Code classification, bank FX spread audit & e-FIRA document vault.
 - [**erpnext-oil-gas-upstream-joint-venture-accounting**](https://github.com/shyampandey1104/erpnext-oil-gas-upstream-joint-venture-accounting) — Upstream E&P Joint Ventures: Joint Interest Billing (JIB), working interest cash calls & AFE capital expenditure ceiling controls.
